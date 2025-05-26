@@ -1,0 +1,99 @@
+[
+  {
+    "type": "spelling",
+    "time": "2025-05-20 11:48:37",
+    "result": []
+  },
+  {
+    "type": "spelling",
+    "time": "2025-05-23 00:18:50",
+    "result": []
+  },
+  {
+    "type": "meaning",
+    "time": "2025-05-23 00:18:54",
+    "result": []
+  },
+  {
+    "type": "spelling",
+    "time": "2025-05-23 00:25:35",
+    "result": [
+      [
+        "book",
+        true
+      ],
+      [
+        "apple",
+        true
+      ]
+    ]
+  },
+  {
+    "type": "meaning",
+    "time": "2025-05-23 00:27:27",
+    "result": [
+      [
+        "book",
+        true
+      ],
+      [
+        "apple",
+        true
+      ]
+    ]
+  },
+  {
+    "type": "meaning",
+    "time": "2025-05-23 13:47:36",
+    "result": [
+      [
+        "book",
+        true
+      ],
+      [
+        "apple",
+        true
+      ]
+    ]
+  },
+  {
+    "type": "spelling",
+    "time": "2025-05-23 14:27:06",
+    "result": [
+      [
+        "apple",
+        false
+      ],
+      [
+        "book",
+        false
+      ]
+    ]
+  },
+  {
+    "type": "spelling",
+    "time": "2025-05-23 16:00:07",
+    "result": [
+      [
+        "justice1220",
+        false
+      ],
+      [
+        "justice459",
+        false
+      ],
+      [
+        "highlight1740",
+        false
+      ],
+      [
+        "justice781",
+        false
+      ],
+      [
+        "highlight1973",
+        false
+      ]
+    ]
+  }
+]
