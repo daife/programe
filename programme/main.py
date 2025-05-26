@@ -5,7 +5,7 @@ from practice.meaning_check import meaning_test
 from stats.record import save_result
 import os
 import json
-
+#v
 def login_menu():
     while True:
         print("\n=== 欢迎使用背单词软件 ===")
